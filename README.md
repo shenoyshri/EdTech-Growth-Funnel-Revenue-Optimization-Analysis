@@ -188,20 +188,25 @@ Based on the analysis:
 
 ---
 
+## Repository Contents
+
+This repository contains the complete workflow of the EdTech Growth Funnel Analysis project including data preparation, SQL analysis, Excel validation, and Power BI dashboard.
+
 ## Project Structure
-EdTech-Funnel-Revenue-Optimization
+
+EdTech-Funnel-Revenue-Optimization/
 │
-├── Dataset
-│ └── edtech_funnel_dataset.csv
+├── Dataset/
+│   └── edtech_funnel_dataset.csv
 │
-├── Excel Analysis
-│ └── funnel_analysis.xlsx
+├── Excel Analysis/
+│   └── funnel_analysis.xlsx
 │
-├── SQL Queries
-│ └── funnel_analysis.sql
+├── SQL Queries/
+│   └── funnel_analysis.sql
 │
-├── Power BI Dashboard
-│ └── edtech_dashboard.pbix
+├── Power BI Dashboard/
+│   └── edtech_dashboard.pbix
 │
 └── README.md
 
