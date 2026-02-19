@@ -186,14 +186,13 @@ Based on the analysis:
 4. Improve trial experience to increase Trial → Enrollment conversion rate.
 5. Small improvements in conversion rates can significantly increase revenue without increasing marketing spend.
 
----
-
 ## Repository Contents
 
 This repository contains the complete workflow of the EdTech Growth Funnel Analysis project including data preparation, SQL analysis, Excel validation, and Power BI dashboard.
 
 ## Project Structure
 
+```
 EdTech-Funnel-Revenue-Optimization/
 │
 ├── Dataset/
@@ -209,8 +208,7 @@ EdTech-Funnel-Revenue-Optimization/
 │   └── edtech_dashboard.pbix
 │
 └── README.md
-
----
+```
 
 ## Author
 
