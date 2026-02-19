@@ -1,5 +1,8 @@
 # EdTech Growth Funnel & Revenue Optimization Analysis
 
+## Project Type
+Business Data Analysis | Growth Analytics | Funnel Optimization
+
 ## Project Overview
 
 This project analyzes an EdTech business funnel to identify conversion patterns, retention behavior, and revenue optimization opportunities.
@@ -173,5 +176,39 @@ Improving trial-to-enrollment conversion can generate an estimated **revenue upl
 
 ---
 
+## Business Recommendations
+
+Based on the analysis:
+
+1. Increase focus on Referral and Instagram channels as they show higher conversion rates.
+2. Promote weekend batches more aggressively as they demonstrate better retention.
+3. Introduce targeted discounts for low-income segments to improve enrollment conversion.
+4. Improve trial experience to increase Trial → Enrollment conversion rate.
+5. Small improvements in conversion rates can significantly increase revenue without increasing marketing spend.
+
+---
+
 ## Project Structure
+EdTech-Funnel-Revenue-Optimization
+│
+├── Dataset
+│ └── edtech_funnel_dataset.csv
+│
+├── Excel Analysis
+│ └── funnel_analysis.xlsx
+│
+├── SQL Queries
+│ └── funnel_analysis.sql
+│
+├── Power BI Dashboard
+│ └── edtech_dashboard.pbix
+│
+└── README.md
+
+---
+
+## Author
+
+**Srikanth Shenoy**
+
 
