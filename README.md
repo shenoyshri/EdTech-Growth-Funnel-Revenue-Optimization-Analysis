@@ -1,3 +1,6 @@
+End-to-End Data Analytics Project
+Excel + SQL + Power BI
+
 # EdTech Growth Funnel & Revenue Optimization Analysis
 
 ## Project Type
