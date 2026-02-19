@@ -1,0 +1,301 @@
+lead_id,lead_date,source,region,trial_started,enrolled,retained_3m,course_fee,discount,batch_type,parent_income_segment
+1,2025-02-27,Referral,North,Yes,No,Yes,15000,0,Weekday,Low
+2,2025-01-10,Google Ads,South,Yes,Yes,No,15000,1000,Weekend,Mid
+3,2025-01-06,Google Ads,East,Yes,Yes,No,15000,2000,Weekend,Mid
+4,2025-01-12,Facebook,North,No,No,Yes,15000,0,Weekday,High
+5,2025-01-25,Referral,East,Yes,Yes,No,15000,500,Weekday,High
+6,2025-02-09,Facebook,West,Yes,No,No,15000,0,Weekend,Low
+7,2025-03-12,Instagram,West,No,No,Yes,15000,0,Weekday,Mid
+8,2025-01-09,Google Ads,East,Yes,Yes,Yes,15000,1000,Weekend,High
+9,2025-01-14,Referral,East,Yes,Yes,Yes,15000,2000,Weekend,Low
+10,2025-03-14,Google Ads,East,Yes,Yes,No,15000,1000,Weekday,Mid
+11,2025-03-05,Referral,South,Yes,Yes,No,15000,2000,Weekend,Mid
+12,2025-03-02,Instagram,West,Yes,No,Yes,15000,0,Weekday,High
+13,2025-02-20,Referral,South,Yes,Yes,Yes,15000,3000,Weekday,Low
+14,2025-03-24,Referral,North,Yes,Yes,Yes,15000,2000,Weekday,Low
+15,2025-03-09,Instagram,East,Yes,Yes,No,15000,500,Weekend,Mid
+16,2025-04-01,Facebook,East,Yes,Yes,No,15000,1000,Weekday,High
+17,2025-01-23,Instagram,North,Yes,Yes,No,15000,2000,Weekday,Mid
+18,2025-03-08,Facebook,East,Yes,Yes,Yes,15000,3000,Weekday,Low
+19,2025-03-19,Google Ads,North,Yes,Yes,Yes,15000,1000,Weekend,High
+20,2025-02-16,Facebook,North,Yes,Yes,Yes,15000,1000,Weekend,Mid
+21,2025-03-12,Referral,South,Yes,Yes,No,15000,3000,Weekday,Low
+22,2025-03-18,Google Ads,North,Yes,Yes,Yes,15000,0,Weekday,High
+23,2025-02-25,Referral,West,Yes,Yes,Yes,15000,500,Weekend,Mid
+24,2025-03-05,Instagram,North,Yes,Yes,No,15000,3000,Weekday,Low
+25,2025-01-04,Google Ads,West,Yes,No,No,15000,0,Weekday,Mid
+26,2025-03-09,Google Ads,North,No,No,Yes,15000,0,Weekday,Mid
+27,2025-01-01,Google Ads,East,Yes,Yes,No,15000,500,Weekday,Mid
+28,2025-03-22,Google Ads,North,Yes,Yes,Yes,15000,2000,Weekend,Mid
+29,2025-02-22,Google Ads,West,Yes,Yes,No,15000,1000,Weekday,Mid
+30,2025-03-04,Google Ads,North,Yes,Yes,No,15000,1000,Weekday,Low
+31,2025-03-31,Google Ads,West,Yes,Yes,No,15000,2000,Weekend,Low
+32,2025-02-02,Google Ads,West,Yes,No,No,15000,0,Weekday,High
+33,2025-02-04,Facebook,North,Yes,Yes,Yes,15000,2000,Weekend,Low
+34,2025-03-11,Instagram,East,Yes,Yes,No,15000,500,Weekend,High
+35,2025-03-23,Google Ads,North,Yes,No,Yes,15000,0,Weekend,Low
+36,2025-02-08,Referral,East,Yes,Yes,Yes,15000,2000,Weekday,Low
+37,2025-03-13,Google Ads,West,Yes,Yes,Yes,15000,1000,Weekend,Low
+38,2025-01-21,Referral,South,Yes,Yes,No,15000,1000,Weekday,Mid
+39,2025-02-25,Referral,West,Yes,No,No,15000,0,Weekday,Low
+40,2025-03-30,Instagram,East,No,No,No,15000,0,Weekday,Low
+41,2025-03-31,Instagram,East,No,No,Yes,15000,0,Weekend,High
+42,2025-02-16,Google Ads,North,Yes,Yes,No,15000,1000,Weekend,Mid
+43,2025-03-10,Google Ads,South,Yes,No,Yes,15000,0,Weekday,High
+44,2025-02-25,Referral,East,Yes,Yes,No,15000,2000,Weekend,Mid
+45,2025-03-03,Referral,West,Yes,Yes,Yes,15000,3000,Weekend,Low
+46,2025-03-06,Referral,North,Yes,Yes,No,15000,2000,Weekday,Low
+47,2025-02-09,Facebook,North,Yes,Yes,Yes,15000,1000,Weekend,Mid
+48,2025-02-06,Instagram,North,Yes,Yes,No,15000,1000,Weekend,Low
+49,2025-01-18,Referral,North,Yes,Yes,Yes,15000,3000,Weekday,Low
+50,2025-01-23,Referral,North,Yes,Yes,No,15000,1000,Weekday,Low
+51,2025-03-31,Referral,South,Yes,No,No,15000,0,Weekday,Low
+52,2025-03-07,Google Ads,West,Yes,Yes,No,15000,3000,Weekday,Low
+53,2025-01-13,Instagram,East,Yes,No,No,15000,0,Weekday,Mid
+54,2025-03-21,Referral,South,Yes,No,Yes,15000,0,Weekday,Mid
+55,2025-01-07,Referral,North,Yes,Yes,No,15000,1000,Weekday,Mid
+56,2025-03-26,Google Ads,West,Yes,Yes,Yes,15000,500,Weekend,Mid
+57,2025-01-30,Google Ads,West,Yes,Yes,No,15000,1000,Weekday,Mid
+58,2025-03-03,Google Ads,North,No,No,Yes,15000,0,Weekday,Mid
+59,2025-02-18,Instagram,South,Yes,Yes,Yes,15000,500,Weekend,High
+60,2025-03-09,Instagram,West,Yes,Yes,No,15000,0,Weekend,High
+61,2025-02-06,Google Ads,South,Yes,Yes,Yes,15000,1000,Weekday,Low
+62,2025-03-22,Facebook,North,Yes,Yes,Yes,15000,0,Weekday,High
+63,2025-02-26,Referral,East,Yes,Yes,No,15000,1000,Weekend,Mid
+64,2025-02-16,Referral,North,No,No,Yes,15000,0,Weekend,High
+65,2025-01-14,Facebook,North,Yes,Yes,Yes,15000,1000,Weekday,Low
+66,2025-01-24,Facebook,South,Yes,Yes,Yes,15000,2000,Weekend,Low
+67,2025-01-13,Google Ads,East,Yes,Yes,Yes,15000,500,Weekend,High
+68,2025-02-09,Facebook,West,Yes,Yes,No,15000,1000,Weekday,High
+69,2025-01-03,Google Ads,West,No,No,No,15000,0,Weekday,Low
+70,2025-01-29,Facebook,South,Yes,No,No,15000,0,Weekday,Mid
+71,2025-02-05,Referral,North,Yes,No,No,15000,0,Weekend,High
+72,2025-03-20,Referral,South,Yes,No,No,15000,0,Weekday,High
+73,2025-01-22,Google Ads,East,No,No,Yes,15000,0,Weekday,Low
+74,2025-03-21,Google Ads,West,Yes,Yes,No,15000,500,Weekday,High
+75,2025-03-23,Google Ads,West,No,No,Yes,15000,0,Weekend,Low
+76,2025-01-08,Facebook,East,Yes,Yes,No,15000,0,Weekend,High
+77,2025-01-31,Google Ads,South,Yes,No,No,15000,0,Weekday,High
+78,2025-02-19,Facebook,West,Yes,Yes,No,15000,3000,Weekend,Low
+79,2025-01-30,Facebook,North,Yes,No,No,15000,0,Weekday,Low
+80,2025-03-21,Instagram,East,No,No,No,15000,0,Weekday,Low
+81,2025-01-18,Referral,West,Yes,Yes,No,15000,0,Weekday,High
+82,2025-02-23,Facebook,East,No,No,Yes,15000,0,Weekday,Mid
+83,2025-03-30,Referral,West,Yes,Yes,No,15000,0,Weekday,High
+84,2025-02-28,Referral,East,No,No,Yes,15000,0,Weekend,Mid
+85,2025-01-02,Instagram,East,Yes,Yes,No,15000,3000,Weekend,Low
+86,2025-02-21,Facebook,North,Yes,No,Yes,15000,0,Weekday,Low
+87,2025-01-19,Instagram,South,Yes,Yes,Yes,15000,2000,Weekend,Mid
+88,2025-03-05,Instagram,North,Yes,Yes,Yes,15000,1000,Weekend,Low
+89,2025-02-24,Referral,East,Yes,Yes,Yes,15000,2000,Weekend,Low
+90,2025-02-08,Instagram,West,Yes,Yes,Yes,15000,2000,Weekend,Low
+91,2025-03-07,Referral,West,Yes,Yes,Yes,15000,0,Weekday,High
+92,2025-01-07,Google Ads,South,Yes,Yes,Yes,15000,2000,Weekend,Low
+93,2025-03-27,Instagram,West,Yes,Yes,Yes,15000,3000,Weekend,Low
+94,2025-03-01,Referral,South,Yes,Yes,Yes,15000,0,Weekend,High
+95,2025-02-15,Facebook,North,Yes,Yes,Yes,15000,2000,Weekend,Mid
+96,2025-03-25,Google Ads,East,Yes,Yes,Yes,15000,3000,Weekday,Low
+97,2025-01-22,Google Ads,North,Yes,Yes,No,15000,0,Weekday,High
+98,2025-02-20,Google Ads,South,Yes,No,No,15000,0,Weekday,Low
+99,2025-02-15,Instagram,West,Yes,Yes,No,15000,3000,Weekday,Low
+100,2025-01-28,Facebook,South,No,No,No,15000,0,Weekday,Low
+101,2025-03-23,Facebook,South,Yes,No,Yes,15000,0,Weekday,Mid
+102,2025-03-23,Referral,East,Yes,Yes,No,15000,500,Weekday,Mid
+103,2025-03-21,Google Ads,North,No,No,Yes,15000,0,Weekday,Mid
+104,2025-01-03,Facebook,East,Yes,Yes,No,15000,2000,Weekend,Mid
+105,2025-03-08,Facebook,West,No,No,Yes,15000,0,Weekend,Mid
+106,2025-04-01,Instagram,South,Yes,Yes,No,15000,500,Weekday,High
+107,2025-03-27,Google Ads,South,Yes,Yes,Yes,15000,500,Weekday,High
+108,2025-02-08,Google Ads,North,Yes,Yes,No,15000,2000,Weekend,Low
+109,2025-03-17,Instagram,West,Yes,No,No,15000,0,Weekday,High
+110,2025-02-18,Google Ads,South,Yes,Yes,No,15000,3000,Weekday,Low
+111,2025-02-28,Facebook,West,No,No,Yes,15000,0,Weekday,Mid
+112,2025-01-29,Instagram,South,Yes,Yes,Yes,15000,500,Weekday,Mid
+113,2025-01-22,Referral,South,Yes,Yes,No,15000,500,Weekday,High
+114,2025-01-31,Facebook,West,Yes,Yes,No,15000,1000,Weekend,High
+115,2025-03-19,Facebook,South,Yes,No,Yes,15000,0,Weekday,Mid
+116,2025-02-18,Instagram,East,Yes,Yes,No,15000,2000,Weekend,Low
+117,2025-03-21,Instagram,South,No,No,Yes,15000,0,Weekend,Mid
+118,2025-03-05,Instagram,North,Yes,Yes,Yes,15000,500,Weekend,Mid
+119,2025-01-07,Instagram,West,Yes,Yes,Yes,15000,1000,Weekend,High
+120,2025-01-15,Instagram,West,Yes,Yes,Yes,15000,1000,Weekday,Mid
+121,2025-03-22,Referral,East,Yes,Yes,No,15000,500,Weekend,Mid
+122,2025-03-27,Referral,West,Yes,Yes,Yes,15000,1000,Weekend,Low
+123,2025-02-26,Facebook,West,Yes,Yes,Yes,15000,1000,Weekend,Low
+124,2025-03-15,Referral,North,Yes,Yes,Yes,15000,2000,Weekday,Low
+125,2025-02-15,Referral,South,Yes,Yes,No,15000,1000,Weekend,Low
+126,2025-01-13,Google Ads,West,Yes,Yes,No,15000,1000,Weekday,High
+127,2025-02-27,Facebook,North,No,No,Yes,15000,0,Weekday,Low
+128,2025-02-23,Google Ads,West,Yes,Yes,Yes,15000,2000,Weekday,Mid
+129,2025-01-14,Facebook,North,Yes,Yes,No,15000,3000,Weekend,Low
+130,2025-03-30,Google Ads,North,Yes,No,No,15000,0,Weekday,High
+131,2025-01-30,Instagram,East,No,No,Yes,15000,0,Weekday,Mid
+132,2025-03-03,Referral,North,Yes,Yes,No,15000,1000,Weekday,Low
+133,2025-02-27,Google Ads,East,Yes,Yes,Yes,15000,1000,Weekday,Low
+134,2025-01-18,Google Ads,West,Yes,Yes,No,15000,2000,Weekday,Mid
+135,2025-02-22,Facebook,North,Yes,Yes,Yes,15000,2000,Weekday,Low
+136,2025-03-20,Google Ads,South,Yes,Yes,No,15000,1000,Weekday,Low
+137,2025-01-29,Instagram,South,No,No,Yes,15000,0,Weekday,Mid
+138,2025-02-22,Referral,South,Yes,Yes,No,15000,500,Weekend,Mid
+139,2025-03-22,Instagram,North,Yes,No,No,15000,0,Weekend,Low
+140,2025-03-09,Instagram,West,Yes,Yes,Yes,15000,500,Weekend,Mid
+141,2025-01-30,Facebook,South,Yes,Yes,No,15000,1000,Weekend,Low
+142,2025-03-27,Instagram,West,Yes,Yes,No,15000,1000,Weekday,High
+143,2025-01-17,Facebook,South,Yes,Yes,Yes,15000,2000,Weekday,Mid
+144,2025-03-29,Google Ads,South,Yes,Yes,No,15000,1000,Weekend,Low
+145,2025-01-24,Google Ads,West,Yes,No,No,15000,0,Weekend,High
+146,2025-01-28,Google Ads,East,Yes,Yes,No,15000,2000,Weekday,Mid
+147,2025-03-12,Facebook,West,Yes,No,Yes,15000,0,Weekday,High
+148,2025-02-04,Facebook,East,Yes,Yes,No,15000,2000,Weekday,Mid
+149,2025-03-28,Referral,East,Yes,Yes,Yes,15000,500,Weekend,Mid
+150,2025-02-05,Instagram,East,Yes,Yes,Yes,15000,2000,Weekend,Mid
+151,2025-02-26,Instagram,South,Yes,Yes,No,15000,1000,Weekend,Mid
+152,2025-03-02,Facebook,South,Yes,Yes,Yes,15000,500,Weekday,High
+153,2025-01-03,Google Ads,West,Yes,Yes,No,15000,1000,Weekend,Low
+154,2025-01-30,Instagram,East,No,No,No,15000,0,Weekend,High
+155,2025-02-05,Facebook,East,Yes,No,Yes,15000,0,Weekend,Low
+156,2025-03-09,Referral,East,Yes,Yes,Yes,15000,1000,Weekend,High
+157,2025-03-07,Google Ads,East,Yes,Yes,No,15000,1000,Weekday,Low
+158,2025-03-11,Instagram,South,Yes,No,Yes,15000,0,Weekend,Low
+159,2025-02-08,Facebook,North,Yes,Yes,No,15000,500,Weekday,High
+160,2025-01-11,Instagram,North,Yes,Yes,No,15000,1000,Weekend,High
+161,2025-02-24,Google Ads,North,Yes,No,No,15000,0,Weekend,Mid
+162,2025-03-22,Referral,West,No,No,No,15000,0,Weekday,Mid
+163,2025-02-09,Instagram,East,No,No,No,15000,0,Weekday,Low
+164,2025-03-17,Facebook,East,Yes,No,Yes,15000,0,Weekend,Low
+165,2025-03-15,Instagram,West,Yes,Yes,No,15000,500,Weekend,High
+166,2025-02-23,Google Ads,South,No,No,Yes,15000,0,Weekday,High
+167,2025-01-30,Google Ads,West,Yes,Yes,Yes,15000,500,Weekend,Mid
+168,2025-03-27,Facebook,West,Yes,Yes,Yes,15000,500,Weekend,High
+169,2025-01-27,Google Ads,East,Yes,Yes,No,15000,1000,Weekday,Mid
+170,2025-03-09,Facebook,North,No,No,Yes,15000,0,Weekday,Low
+171,2025-02-26,Instagram,East,Yes,Yes,No,15000,2000,Weekday,Mid
+172,2025-03-28,Google Ads,South,No,No,Yes,15000,0,Weekend,Mid
+173,2025-01-16,Facebook,West,Yes,Yes,Yes,15000,2000,Weekend,Low
+174,2025-03-19,Facebook,North,Yes,Yes,No,15000,1000,Weekend,Low
+175,2025-03-24,Instagram,North,Yes,No,No,15000,0,Weekday,High
+176,2025-02-06,Facebook,North,No,No,No,15000,0,Weekend,High
+177,2025-01-14,Facebook,North,Yes,Yes,Yes,15000,500,Weekend,Mid
+178,2025-01-27,Google Ads,South,Yes,Yes,No,15000,500,Weekend,High
+179,2025-01-03,Facebook,South,Yes,No,No,15000,0,Weekday,Mid
+180,2025-01-06,Referral,South,Yes,Yes,Yes,15000,1000,Weekday,Low
+181,2025-03-09,Referral,South,Yes,Yes,Yes,15000,1000,Weekend,Mid
+182,2025-02-06,Google Ads,West,Yes,Yes,No,15000,1000,Weekday,High
+183,2025-01-30,Google Ads,South,Yes,No,Yes,15000,0,Weekday,Low
+184,2025-03-25,Instagram,East,Yes,Yes,No,15000,1000,Weekend,Low
+185,2025-01-21,Referral,South,Yes,No,No,15000,0,Weekend,Low
+186,2025-01-13,Google Ads,East,No,No,No,15000,0,Weekday,High
+187,2025-01-29,Facebook,South,Yes,Yes,No,15000,500,Weekend,Mid
+188,2025-03-24,Referral,North,No,No,Yes,15000,0,Weekend,High
+189,2025-01-19,Google Ads,East,Yes,Yes,Yes,15000,1000,Weekend,Mid
+190,2025-01-20,Google Ads,East,Yes,Yes,No,15000,1000,Weekday,High
+191,2025-02-02,Google Ads,West,Yes,Yes,No,15000,1000,Weekend,Low
+192,2025-01-06,Referral,South,Yes,Yes,Yes,15000,500,Weekday,Mid
+193,2025-01-01,Instagram,North,Yes,Yes,No,15000,0,Weekday,High
+194,2025-01-04,Instagram,East,Yes,Yes,No,15000,500,Weekday,Mid
+195,2025-03-14,Instagram,South,Yes,No,Yes,15000,0,Weekday,Mid
+196,2025-01-31,Referral,East,Yes,Yes,No,15000,500,Weekend,Mid
+197,2025-03-16,Referral,North,Yes,Yes,No,15000,1000,Weekday,Low
+198,2025-02-02,Facebook,East,Yes,Yes,No,15000,500,Weekday,Mid
+199,2025-03-05,Referral,East,Yes,Yes,Yes,15000,2000,Weekday,Low
+200,2025-03-11,Instagram,South,Yes,Yes,No,15000,1000,Weekday,High
+201,2025-02-04,Google Ads,West,Yes,Yes,No,15000,2000,Weekday,Mid
+202,2025-03-23,Facebook,West,Yes,No,Yes,15000,0,Weekend,Low
+203,2025-03-06,Facebook,South,Yes,Yes,No,15000,2000,Weekend,Mid
+204,2025-03-03,Google Ads,East,Yes,Yes,Yes,15000,0,Weekday,High
+205,2025-01-26,Facebook,West,Yes,Yes,Yes,15000,2000,Weekday,Low
+206,2025-01-14,Facebook,West,Yes,Yes,Yes,15000,3000,Weekend,Low
+207,2025-02-11,Referral,West,Yes,Yes,No,15000,500,Weekday,Mid
+208,2025-01-30,Referral,West,No,No,No,15000,0,Weekday,Mid
+209,2025-03-23,Referral,West,No,No,Yes,15000,0,Weekend,Low
+210,2025-01-05,Facebook,East,Yes,Yes,No,15000,3000,Weekday,Low
+211,2025-02-04,Google Ads,South,Yes,Yes,No,15000,2000,Weekend,Mid
+212,2025-01-28,Referral,North,No,No,Yes,15000,0,Weekend,High
+213,2025-03-01,Google Ads,South,Yes,Yes,No,15000,2000,Weekday,Low
+214,2025-03-19,Facebook,South,No,No,No,15000,0,Weekday,Mid
+215,2025-03-17,Referral,East,Yes,No,No,15000,0,Weekend,High
+216,2025-01-17,Instagram,West,Yes,Yes,Yes,15000,1000,Weekday,Low
+217,2025-02-06,Facebook,East,Yes,Yes,Yes,15000,500,Weekend,High
+218,2025-02-24,Instagram,South,Yes,Yes,Yes,15000,500,Weekend,High
+219,2025-02-05,Referral,North,Yes,Yes,Yes,15000,3000,Weekend,Low
+220,2025-01-02,Facebook,North,Yes,Yes,No,15000,1000,Weekend,Low
+221,2025-02-01,Google Ads,West,Yes,No,No,15000,0,Weekend,High
+222,2025-02-06,Google Ads,North,Yes,Yes,Yes,15000,3000,Weekday,Low
+223,2025-01-27,Referral,South,Yes,Yes,No,15000,500,Weekend,High
+224,2025-01-21,Referral,North,Yes,No,No,15000,0,Weekday,Mid
+225,2025-03-30,Facebook,South,Yes,No,No,15000,0,Weekday,Low
+226,2025-01-27,Google Ads,West,No,No,Yes,15000,0,Weekday,Mid
+227,2025-03-17,Instagram,South,Yes,Yes,No,15000,2000,Weekend,Low
+228,2025-01-22,Google Ads,East,Yes,Yes,No,15000,3000,Weekend,Low
+229,2025-01-31,Referral,East,Yes,Yes,No,15000,0,Weekend,High
+230,2025-03-01,Instagram,West,No,No,No,15000,0,Weekday,High
+231,2025-03-05,Facebook,East,Yes,Yes,Yes,15000,3000,Weekday,Low
+232,2025-03-12,Google Ads,South,Yes,Yes,Yes,15000,1000,Weekend,Low
+233,2025-01-08,Facebook,West,Yes,Yes,No,15000,500,Weekday,Mid
+234,2025-02-12,Google Ads,West,Yes,Yes,No,15000,0,Weekend,High
+235,2025-04-01,Facebook,North,No,No,No,15000,0,Weekday,Mid
+236,2025-01-22,Referral,West,No,No,No,15000,0,Weekend,Low
+237,2025-01-15,Google Ads,East,Yes,Yes,Yes,15000,1000,Weekday,Mid
+238,2025-01-14,Instagram,South,Yes,Yes,No,15000,2000,Weekend,Mid
+239,2025-01-31,Facebook,South,Yes,Yes,No,15000,1000,Weekend,High
+240,2025-03-13,Referral,North,No,No,No,15000,0,Weekend,Mid
+241,2025-03-21,Google Ads,East,Yes,No,No,15000,0,Weekend,Mid
+242,2025-01-10,Instagram,East,Yes,No,No,15000,0,Weekday,Mid
+243,2025-01-15,Instagram,East,No,No,Yes,15000,0,Weekend,Low
+244,2025-03-20,Referral,East,Yes,Yes,Yes,15000,1000,Weekend,Mid
+245,2025-01-24,Facebook,East,Yes,Yes,Yes,15000,1000,Weekday,High
+246,2025-01-27,Google Ads,South,Yes,Yes,No,15000,1000,Weekend,Mid
+247,2025-01-12,Facebook,East,Yes,Yes,Yes,15000,2000,Weekday,Mid
+248,2025-02-05,Referral,South,Yes,Yes,No,15000,2000,Weekday,Mid
+249,2025-02-14,Google Ads,South,Yes,Yes,Yes,15000,2000,Weekday,Low
+250,2025-01-06,Google Ads,North,Yes,Yes,Yes,15000,1000,Weekend,High
+251,2025-03-29,Referral,North,Yes,Yes,Yes,15000,3000,Weekend,Low
+252,2025-02-19,Instagram,South,Yes,Yes,Yes,15000,500,Weekday,High
+253,2025-03-03,Google Ads,South,Yes,Yes,No,15000,3000,Weekday,Low
+254,2025-02-01,Referral,North,Yes,No,No,15000,0,Weekend,High
+255,2025-04-01,Facebook,North,No,No,Yes,15000,0,Weekend,Low
+256,2025-02-27,Google Ads,North,Yes,Yes,Yes,15000,0,Weekday,High
+257,2025-02-03,Instagram,North,Yes,Yes,Yes,15000,1000,Weekend,Mid
+258,2025-01-31,Google Ads,West,Yes,Yes,Yes,15000,2000,Weekend,Low
+259,2025-03-31,Facebook,North,Yes,Yes,No,15000,1000,Weekend,Mid
+260,2025-01-04,Google Ads,South,No,No,Yes,15000,0,Weekend,High
+261,2025-03-23,Google Ads,South,Yes,Yes,Yes,15000,500,Weekday,High
+262,2025-03-01,Instagram,South,Yes,Yes,Yes,15000,1000,Weekend,High
+263,2025-03-08,Referral,South,Yes,Yes,Yes,15000,2000,Weekday,Low
+264,2025-01-09,Referral,South,Yes,Yes,Yes,15000,1000,Weekend,Mid
+265,2025-02-19,Google Ads,East,Yes,Yes,Yes,15000,500,Weekday,High
+266,2025-01-12,Google Ads,East,Yes,Yes,Yes,15000,1000,Weekday,Low
+267,2025-03-08,Referral,South,Yes,Yes,No,15000,2000,Weekday,Low
+268,2025-03-28,Facebook,East,No,No,Yes,15000,0,Weekday,High
+269,2025-02-14,Google Ads,West,Yes,Yes,No,15000,0,Weekend,High
+270,2025-03-26,Facebook,East,Yes,Yes,No,15000,2000,Weekend,Low
+271,2025-02-09,Referral,East,Yes,Yes,No,15000,500,Weekend,High
+272,2025-01-26,Instagram,East,Yes,No,Yes,15000,0,Weekday,Low
+273,2025-02-23,Google Ads,West,Yes,Yes,No,15000,500,Weekend,High
+274,2025-01-18,Google Ads,East,Yes,Yes,No,15000,1000,Weekday,Mid
+275,2025-02-23,Instagram,West,No,No,No,15000,0,Weekday,Low
+276,2025-04-01,Facebook,East,Yes,Yes,No,15000,500,Weekday,Mid
+277,2025-01-21,Referral,East,Yes,Yes,Yes,15000,2000,Weekend,Mid
+278,2025-02-05,Instagram,East,Yes,Yes,Yes,15000,1000,Weekend,Low
+279,2025-01-22,Google Ads,East,Yes,Yes,No,15000,1000,Weekday,Low
+280,2025-02-16,Google Ads,South,Yes,No,No,15000,0,Weekday,High
+281,2025-03-30,Google Ads,West,Yes,Yes,No,15000,1000,Weekday,Mid
+282,2025-01-12,Google Ads,South,Yes,No,Yes,15000,0,Weekday,High
+283,2025-01-17,Referral,South,Yes,Yes,No,15000,1000,Weekend,Mid
+284,2025-02-03,Facebook,North,No,No,No,15000,0,Weekend,High
+285,2025-01-21,Referral,West,No,No,No,15000,0,Weekend,Low
+286,2025-01-20,Facebook,North,No,No,Yes,15000,0,Weekday,Mid
+287,2025-02-09,Referral,East,Yes,Yes,Yes,15000,3000,Weekend,Low
+288,2025-02-18,Referral,North,Yes,Yes,No,15000,500,Weekend,High
+289,2025-03-07,Instagram,South,Yes,No,No,15000,0,Weekday,Low
+290,2025-03-03,Referral,South,No,No,Yes,15000,0,Weekend,High
+291,2025-02-03,Google Ads,South,Yes,Yes,Yes,15000,2000,Weekend,Low
+292,2025-01-11,Referral,West,Yes,Yes,No,15000,1000,Weekday,Low
+293,2025-04-01,Instagram,East,Yes,Yes,Yes,15000,1000,Weekend,Mid
+294,2025-03-16,Instagram,East,Yes,Yes,No,15000,3000,Weekend,Low
+295,2025-03-03,Referral,East,Yes,Yes,Yes,15000,0,Weekday,High
+296,2025-01-28,Instagram,West,Yes,Yes,No,15000,500,Weekend,High
+297,2025-01-06,Referral,North,Yes,Yes,No,15000,500,Weekend,High
+298,2025-02-16,Facebook,West,Yes,Yes,No,15000,3000,Weekend,Low
+299,2025-03-28,Google Ads,North,No,No,Yes,15000,0,Weekday,Low
+300,2025-02-02,Facebook,South,Yes,Yes,No,15000,1000,Weekday,Mid
